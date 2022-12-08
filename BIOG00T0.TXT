@@ -1,0 +1,173 @@
+1.	You felt great affinity with the magical
+	school of _____ from your earliest years.
+a.	Destruction (+8)
+	22 +10
+b.	Restoration (+8)
+	23 +10
+c.	Illusion (+8)
+	24 +10
+d.	Alteration (+8)
+	25 +10
+e.	Thaumaturgy (+8)
+	26 +10
+f.	Mysticism (+8)
+	27 +10
+
+2.	Due to continual bad experiences with them,
+	you are noticeably short-tempered with...
+a.	Intellectuals (-10 rep with Scholars)
+	r2 -10
+b.	The ruling class (-10 rep with Nobility)
+	r3 -10
+c.	Common folk (-10 rep with Commoner)
+	r0 -10
+d.	Merchants (-10 rep with Merchants)
+	r1 -10
+e.	Criminals (-10 rep with Underworld)
+	r4 +10
+
+3.	You were accidentally enrolled in, but still benefited
+	from, two classes of ____ in the same year.
+a.	Destruction (+8)
+	22 +10
+b.	Restoration (+8)
+	23 +10
+c.	Illusion (+8)
+	24 +10
+d.	Alteration (+8)
+	25 +10
+e.	Thaumaturgy (+8)
+	26 +10
+f.	Mysticism (+8)
+	27 +10
+
+4.	While visiting a friend, a debt collector knocked at the door
+	and demanded payment. You kept yourself free from danger using...
+a.	a wooden pole (+5 Blunt Weapon)
+	32 +5
+b.	a switchblade (+5 Short Blade)
+	28 +5
+c.	kind words (+5 Etiquette)
+	1 +5
+d.	deceit (+5 Streetwise)
+	2 +5
+e.  your feet (+5 Running)
+	21 +5
+
+5.	Even if not very skilled with it, you make sure to keep
+	on your person a _____ of Elven make at all times.
+a.	wakizashi
+	IT 3 4 3
+b.	mace
+	IT 3 11 3
+c.  flail
+	IT 3 12 3
+d.	dagger
+	IT 3 0 3
+e.	staff
+	IT 3 2 3
+
+6.	In spite of your best efforts, a mediocre instructor
+	and multiple bad lessons stunted your study of...
+a.	Destruction (-10)
+	22 -10
+b.	Restoration (-10)
+	23 -10
+c.	Illusion (-10)
+	24 -10
+d.	Alteration (-10)
+	25 -10
+e.	Thaumaturgy (-10)
+	26 -10
+f.	Mysticism (-10)
+	27 -10
+
+7.	Your increased magicka capacity
+	comes at the cost of...
+a.	reduced combat ability (-10 to-hit)
+	TH -10
+b.	spellcasting (-5 to all magic schools)
+	22 -5
+	23 -5
+	24 -5
+	25 -5
+	26 -5
+	27 -5
+c.	charisma (-10 to conversation rolls)
+	RR -10
+d.	reduced magical resistance (-10)
+	MR -10
+
+8.	Lodging near a circus for a time, you found ample opportunity
+	to converse with a captive ______ and learn its language.
+a.	Harpy (Harpy +10)
+	5 +10
+b.	Giant (Giantish +10)
+	6 +10
+c.	Dragonling (Dragonish +10)
+	7 +10
+d.	Nymph (Nymph +10)
+	8 +10
+e.	Daedroth (Daedric +10)
+	9 +10
+f.	Spriggan (Spriggan +10)
+	10 +10
+g.	Centaur (Centaur +10)
+	11 +10
+h.	Imp (Impish +10)
+	12 +10
+
+9.	Upon hearing of your coming journey, a good friend
+	insisted that you take with you a...
+a.	worn map
+	IT 11 0 0
+b.	painting
+	IT 13 0 0
+c.	daedra's heart
+	IT 17 12 0
+d.	telescope
+	IT 26 0 0
+
+10.	During an archaeological dig, you scrounged and
+	were allowed to keep...
+a.	a ring
+	IT 25 2 0
+b.	a soul trap
+	IT 27 1 0
+c.	an emerald
+	IT 14 1 0
+d.	a holy dagger
+	IT 10 11 0
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10)
+	rf82 +10
+c.	Zenithar (+10)
+	rf84 +10
+d.	Mara (+10)
+	rf88 +10
+e.	Dibella (+10)
+	rf98 +10
+f.	Julianos (+10)
+	rf94 +10
+g.	Akatosh (+10)
+	rf92 +10
+h.	Stendarr (+10)
+	rf106 +10
+i.	Kynareth (+10)
+	rf36 +10
+j.  Mephala (+10)
+    rf108 +10
+
+12.	Poor genetics have cursed you with...
+a.	weak kidneys (-15 poison resistance)
+	RP -15
+b.	a short temper (-10 to conversation rolls)
+	RR -10
+c.	weak antibodies (-10 disease resistance)
+	RD -5
+d.	poor reflexes (-10 to-hit odds)
+	TH -10
+
