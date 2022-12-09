@@ -1,0 +1,161 @@
+1.	You would never run into a battle without
+	your steel _____ at the ready.
+a.	two-handed axe
+	IT 3 15 1
+b.	one-handed axe
+	IT 3 14 1
+c.	warhammer
+	IT 3 13	1
+d.	mace
+	IT 3 11	1
+e.  dai-katana
+	IT 3 10 1
+f.	long sword
+	IT 3 7 1
+
+2.	A run-in with a werewolf several years ago taught you to
+	always keep a silver _____ on hand.
+a.	one-handed axe
+	IT 3 15 2
+b.	broad sword
+	IT 3 14 2
+d.	quarterstaff
+	IT 3 11	2
+	
+3.	Your battlemaster incessantly taught you the importance
+	of learning _____ in order to survive.
+a.	swift movement (Running +10)
+	21 +10
+b.	to sneak (Stealth +10)
+	16 +10
+c.	to dodge (Dodging +10)
+	20 +10
+d.	first aid (Medical +10)
+	0 +10
+e.	fisticuffs (Hand-to-Hand +10)
+	30 +10
+
+4.	As a child, your nickname was ______.
+a.	Helmsplitter (Long Blade +8)
+	29 +8
+b.	Butcher (Axe +8)
+	31 +8
+c.	Lightning (Dodging +8)
+	20 +8
+d.	Lofty (Climbing +8)
+	18 +8
+e.	Crusher (Blunt Weapon +8)
+	32 +8
+f.  Shark (Swimming +8)
+	17 +8
+
+5.	You were given as a gift
+	a very instructive book on ______.
+a.	Lockpicking (+8 skill)
+	13 +8
+b.	Giantish (+8 skill)
+	6 +8
+c.	economics (+8 Mercantile)
+	14 +8
+d.	missile aiming (+8 Archery)
+	33 +8
+e.	body language (+8 Streetwise)
+	2 +8
+
+6.	After reading the previously named book, you exchanged
+	it for ______.
+a.	an Elven claymore
+	IT 3 9 3
+b.	a Dwarven mace
+	IT 3 11 4
+c.	an Ebony tanto
+	IT 3 7 7
+d.	an Elven flail
+	IT 3 12 3
+e.  a Mithril wakazashi
+	IT 3 4 5
+f.  1500 gold pieces
+	GP 1500
+
+7.	One of your hated rivals belongs to the ______
+	and has tainted your reputation among them.
+a.	Fighters Guild (-10 rep)
+	rf41 -10
+b.	Dark Brotherhood (-10 rep)
+	rf108 -10
+c.	Temple of Stendarr (-10 rep)
+	rf33 -10
+
+8.	You keep a ______ as a personal memento.
+a.	bracelet
+	IT 25 3 0
+b.	clover
+	IT 15 10 0
+c.	scarab
+	IT 10 9 0
+d.	mummified finger
+	IT 26 7 0
+e.  set of prayer beads
+	IT 10 0 0
+
+9.	For some reason, you never understood how to swing ______.
+a.	blunt weaponry (-15 skill)
+	32 -15
+b.	axes (-15 skill)
+	31 -15
+c.	long blades (-15 skill)
+	29 -15
+
+10.	Your personal preference, where possible,
+	is to do work for...
+a.	aristocrats (+1500 gold, +5 rep)
+	r3 +5
+	GP +1500
+b.	commoners (+300 gold, +5 rep)
+	r0 +5
+    GP +300
+c.	merchants (+500 gold, +5 rep)
+	r1 +5
+	GP +500
+d.	criminals (+1000 gold, +5 rep)
+	r4 +5
+	GP +1000
+e.	scholars (+500 gold, +5 rep)
+	r2 +5
+	GP +500
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.  Mephala (+10 reputation)
+	rf108 +10
+
+12.	Multiple blunt trauma injuries to your hands during combat
+	have left you with a reduced ability to ________.
+a.	climb (-8 Climbing)
+	18 -8
+b.	lockpick (-8 Lockpicking)
+	13 -8
+c.	swim (-8 Swimming)
+	17 -8
+d.	mend wounds (-8 Medical)
+	0 -8
+e.	shoot arrows (-8 Archery)
+	33 -8
+

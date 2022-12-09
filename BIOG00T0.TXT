@@ -13,7 +13,7 @@ e.	Thaumaturgy (+8)
 f.	Mysticism (+8)
 	27 +10
 
-2.	Due to continual bad experiences with them,
+2.	Due to frequent bad experiences with them,
 	you are noticeably short-tempered with...
 a.	Intellectuals (-10 rep with Scholars)
 	r2 -10
