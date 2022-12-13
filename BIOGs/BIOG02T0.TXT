@@ -50,8 +50,8 @@ b.	sweet-talkers (Streetwise +10)
 	2 +10
 c.	merchants (Mercantile +6)
 	14 +6
-d.	fighters (to-hit odds +10)
-	TH +10
+d.	fighters (-10 to chance of being hit)
+	TH -10
 
 4.	Prior to your departure, a friend gave you 1000 gold.
     After some deliberation, you...

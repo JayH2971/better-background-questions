@@ -21,7 +21,7 @@ b.	reduced skill with spells (-5 to all schools)
 	27 -5
 c.	vulnerability to poison (-25 poison resist)
 	RP -25
-d.	feebleness in combat (-15 to-hit odds)
+d.	sluggish dodging (+15 odds to be hit)
     TH -15
 
 3.	The secrets of the _____ school seem to elude you, for no good reason.

@@ -19,8 +19,8 @@ a.	a weak immune system (-20 disease resistance)
 	RD -20
 b.	sluggish movement (-10 Running and Swimming)
 	IT 3 14 2
-c.	poor combat reflexes (-10 to-hit odds)
-	TH -10
+c.	poor reflexes (+10 odds to be hit)
+	TH +10
 d.  a short temper (-15 conversation odds)
     RR -15
 	

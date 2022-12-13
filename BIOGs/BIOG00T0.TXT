@@ -168,6 +168,6 @@ b.	a short temper (-10 to conversation rolls)
 	RR -10
 c.	weak antibodies (-10 disease resistance)
 	RD -10
-d.	poor reflexes (-10 to-hit odds)
-	TH -10
+d.	slow reflexes (+10 odds to be hit)
+	TH +10
 
