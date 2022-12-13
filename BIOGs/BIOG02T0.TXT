@@ -102,10 +102,10 @@ e.	Crook (Pickpocket +10)
 
 8.	Leaving a friend's house at night, you are confronted by
     an armed thief. You manage to scare her off using your ______.
-a.	blackjack (Blunt Weaponry +8)
-	32 +8
-b.	woodworking knife (Short Blades +8)
-	28 +8
+a.	blackjack (Blunt Weaponry +10)
+	32 +10
+b.	woodworking knife (Short Blades +10)
+	28 +10
 c.	conjured illusion (Illusion +6)
 	24 +6
 d.	refined combat stance (to-hit odds +5)
