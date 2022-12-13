@@ -28,7 +28,7 @@ a.	run (Running +10)
 	21 +10
 b.	barter (Mercantile +10)
 	14 +10
-c.	understand all monster languages (+8 to each)
+c.	understand monster languages (+8 to all)
 	4 +8
     5 +8
     6 +8
@@ -144,9 +144,9 @@ c.	merchants (+500 gold, +5 rep)
 d.	criminals (+1000 gold, +5 rep)
 	r4 +5
 	GP +1000
-e.	scholars (+500 gold, +5 rep)
+e.	scholars (+750 gold, +5 rep)
 	r2 +5
-	GP +500
+	GP +750
 
 11.	What god, if any, do you worship?
 a.	None
@@ -183,3 +183,4 @@ e.	common folk (-10 reputation)
 	r0 -10
 f.	everyone equally (-5 conversation odds)
     RR -5
+
