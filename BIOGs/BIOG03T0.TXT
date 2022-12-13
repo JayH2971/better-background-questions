@@ -1,0 +1,175 @@
+1.	At the urging of your mentor, you managed to
+    obtain a fairly inexpensive ______ for your defense.
+a.	Mithril dagger
+    IT 3 0 5
+b.	Elven staff
+	IT 3 2 3
+c.	Silver war hammer
+	IT 3 13 2
+d.	Dwarven short sword
+	IT 3 3 4
+
+2.	Your tremendous magicka capacity is counterbalanced by a...
+a.	vulnerability to disease (-25 disease resist)
+	RD -25
+b.	reduced skill with spells (-5 to all schools)
+	22 -5
+	23 -5
+	24 -5
+	25 -5
+	26 -5
+	27 -5
+c.	vulnerability to poison (-25 poison resist)
+	RP -25
+d.	feebleness in combat (-15 to-hit odds)
+    TH -15
+
+3.	The secrets of the _____ school seem to elude you, for no good reason.
+a.	Destruction (-10)
+	22 -10
+b.	Restoration (-10)
+	23 -10
+c.	Illusion (-10)
+	24 -10
+d.	Alteration (-10)
+	25 -10
+e.	Thaumaturgy (-10)
+	26 -10
+f.	Mysticism (-10)
+	27 -10
+
+4.	Since childhood, you've always been entranced with the power
+    of the ______ school of magic.
+a.	Destruction (+8)
+	22 +8
+b.	Restoration (+8)
+	23 +8
+c.	Illusion (+8)
+	24 +8
+d.	Alteration (+8)
+	25 +8
+e.	Thaumaturgy (+8)
+	26 +8
+f.	Mysticism (+8)
+	27 +8
+
+5.	After receiving 2000 gold as a gift, over the next two months you spend it on...
+a.	self-defense courses (+10 to Blunt, Short Blade)
+	28 +10
+    32 +10
+b.	business investing (3200 gold, +8 Mercant)
+	GP +3200
+    14 +8
+c.	a finishing course (+8 Etiq and Streetw)
+	1 +8
+    2 +8
+d.	earning favor in the underworld (criminal rep +15) 
+	r4 +15
+e.	a deposit for a shiny new Mithril mace
+    IT 3 11 5
+
+6.	Confronted with danger while out of magic,
+    your first instinct is to...
+a.	flee it (Running +8)
+	21 +8
+b.	avoid it (Stealth +10)
+	16 +10
+c.	get to a high place (Climbing +10)
+	20 +10
+d.	knock its face in (Hand-to-Hand +15)
+	30 +15
+
+7.	Given the chance, you would choose the power to...
+a.	befriend others (+10 conversation odds)
+    RR +10
+b.  amass wealth (+3500 gold)
+    GP +3500
+c.  clobber your enemies (+10 to-hit odds)
+    TH +10
+d.  resist magicka (+15 magicka resistance)
+    MR +15
+
+8.	Over a summer, you stayed with a wizard who maintained
+    a captive _____ as a pet, allowing you to learn some of its language.
+a.	Harpy (+8 skill)
+	5 +8
+b.	Giant (+8 Giantish)
+	6 +8
+c.	Nymph (+8 skill)
+	8 +8
+d.	Spriggan (+8 skill)
+	10 +8
+e.  Centaur (+8 skill)
+	11 +8
+
+9.	One night, a spectre appears and offers to take your magical resistance (-75 magic resist)
+    in exchange for a gift. You decide to receive...
+a.	a Daedric tanto
+	IT 3 1 9
+    MR -75
+b.	an Ebony staff
+	IT 3 2 7
+    MR -75
+c.	power over minds (+25 Etq, Stretw, Mrcntl)
+    1 +25
+    2 +25
+    14 +25
+    MR -75
+d.	nothing, for your soul is yours (no deal)
+    r4 +0
+
+10.	Your personal preference, where possible,
+	is to do work for...
+a.	aristocrats (+1500 gold, +5 rep)
+	r3 +5
+	GP +1500
+b.	commoners (+300 gold, +5 rep)
+	r0 +5
+    GP +300
+c.	merchants (+500 gold, +5 rep)
+	r1 +5
+	GP +500
+d.	criminals (+1000 gold, +5 rep)
+	r4 +5
+	GP +1000
+e.	scholars (+750 gold, +5 rep)
+	r2 +5
+	GP +750
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.	Mephala (+10 reputation)
+	rf108 +10
+
+12.	A botched errand gave you increased favor with the Mages Guild (+10),
+    but a black eye with the...
+a.	Thieves Guild (-10 reputation)
+	rf42 -10
+    rf40 +10
+b.	Dark Brotherhood (-10 reputation)
+	rf108 -10
+    rf40 +10
+c.	Temple of Kynareth (-10 reputation)
+	rf35 -10
+    rf40 +10
+d.	School of Julianos (-10 reputation)
+	rf27 -10
+    rf40 +10
+

@@ -24,7 +24,7 @@ c.	Common folk (-10 rep with Commoner)
 d.	Merchants (-10 rep with Merchants)
 	r1 -10
 e.	Criminals (-10 rep with Underworld)
-	r4 +10
+	r4 -10
 
 3.	You were accidentally enrolled in, but still benefited
 	from, two classes of ____ in the same year.

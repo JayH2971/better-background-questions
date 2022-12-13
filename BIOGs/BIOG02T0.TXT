@@ -39,8 +39,7 @@ c.	understand monster languages (+8 to all)
     11 +8
     12 +8
 d.	dodge (Dodging +10)
-	1 +3
-	2 +3
+	20 +10
 e.	naturally heal (Medical +20)
 	0 +20
 
@@ -167,7 +166,7 @@ h.	Stendarr (+10 reputation)
 	rf106 +10
 i.	Kynareth (+10 reputation)
 	rf36 +10
-j.  Mephala (+10 reputation)
+j.	Mephala (+10 reputation)
 	rf108 +10
 
 12.	You have an irrational disgust for ______.
