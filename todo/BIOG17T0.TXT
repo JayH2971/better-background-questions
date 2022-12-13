@@ -1,0 +1,173 @@
+1.	If you joined any knightly order,
+	your most likely choice would be the ______.
+a.	Host of the Horn, Lainlyn
+b.	Knights of the Dragon, Daggerfall
+c.	Knights of the Flame, Anticlere
+d.	Knights of the Hawk, Santaki
+e.	Knights of the Owl, Glenpoint
+f.	Knights of the Rose, Wayrest
+g.  Knights of the Wheel, Abibon-Gora
+h.  Order of the Candle, Sentinel
+i.  Order of the Raven, Dwynnen
+j.  Order of the Scarab, Totambu
+
+2.	In spite of your personal efforts, you have never
+	felt confidence using ______.
+a.	Blunt Weapons (-15 skill)
+b.	Long Blades (-15 skill)
+c.	Etiquette (-15 skill)
+	
+3.	When given the opportunity to take a
+	course in exotic languages, you chose ______.
+a.	Dragonish (skill +10)
+	7 +10
+b.	Nymph (skill +10)
+	8 +10
+c.	Daedric (skill +10)
+	9 +10
+d.	Spriggan (skill +10)
+	10 +10
+e.	Impish (skill +10)
+	12 +10
+
+4.	An illness in your youth reduced your ability to _____.
+a.	resist disease (-15 disease resistance)
+	3 +6
+b.	swim (Swimming -10)
+	17 +6
+c.	run (Running -10)
+	21 +6
+d.	shoot arrows (Archery -10)
+	30 +6
+e.	climb (Climbing -10)
+	18 +6
+
+5.	For routing a pillaging goblin clan,
+	a nearby village rewarded you with ________.
+a.	an Elven cuirass
+	TODO
+b.	Dwarven gauntlets
+	IT 7 0 0
+c.	a Mithril short bow
+	IT 2 0 0
+d.	Dwarven boots
+e.	an Adamantium dagger
+	IT 3 8 1
+f.  an Ebony helm
+
+6.	What god, if any, do you worship?
+a.	None
+	r2 +5
+b.	Arkay, Birth and Death God
+	rf82 +5
+c.	Zenithar, God of Commerce
+	rf84 +5
+d.	Mara, the Mother Goddess
+	rf88 +5
+e.	Dibella, Goddess of Beauty
+	rf98 +5
+f.	Julianos, God of Logic
+	rf94 +5
+g.	Akatosh, God of Time
+	rf92 +5
+h.	Stendarr, God of Mercy
+	rf106 +5
+i.	Kynareth, Goddess of Air
+	rf36 +5
+
+7.	You have the most trouble ___.
+a.	Resisting poisons
+	RP -10
+b.	Staying awake and alert
+	FT -5
+c.	Getting along with others
+	RR -5
+d.	Avoiding diseases
+	RD -5
+e.	Resisting magic
+	MR -5
+f.	Fighting and parrying
+	TH -5
+
+8.	Since childhood, you have saved  ___.
+a.	100 gold pieces
+	GP +100
+b.	A book
+	IT 7 0 0
+c.	A dozen arrows
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+e.	An amulet
+	IT 25 0 0
+
+9.	You are friendlier than most with ___.
+a.	the savage Harpies
+	5 +6
+b.	the simple Giants
+	6 +6
+c.	the glorious Dragons
+	7 +6
+d.	the immodest Nymphs
+	8 +6
+e.	the infernal Daedra
+	9 +6
+f.	the bucolic Spriggans
+	10 +6
+g.	the primitive Centaurs
+	11 +6
+h.	the mischevious Imps
+	12 +6
+
+10.	Given 200 gold pieces as a reward,
+	You decided to ___.
+a.	Save it.
+	GP +200
+b.	Buy a good book
+	IT 7 0 0
+c.	Buy a ruby
+	IT 14 0 0
+d.	Buy a silver mace
+	IT 3 11 2
+
+11.	You spend any free time you have
+	training with ___.
+a.	Short-bladed weapons
+	28 +6
+b.	Hand-to-hand combat
+	30 +6
+c.	Axe fighting
+	31 +6
+d.	Blunt weapons
+	32 +6
+e.	Archery
+	33 +6
+f.	Longblade
+	29 +6
+
+12.	You are intimate friends with ___.
+a.	a Monk
+	#4212
+	AF O 8 12 +1
+b.	a Mage
+	#4213
+	AF O 8 2 +1
+c.	a Rogue
+	#4214
+	AF O 8 8 +1
+d.	a Warrior
+	#4215
+	AF O 8 17 +1
+e.	an Assassin
+	#4216
+	AF O 8 11 +1
+

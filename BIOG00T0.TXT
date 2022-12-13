@@ -1,17 +1,17 @@
 1.	You felt great affinity with the magical
 	school of _____ from your earliest years.
 a.	Destruction (+8)
-	22 +10
+	22 +8
 b.	Restoration (+8)
-	23 +10
+	23 +8
 c.	Illusion (+8)
-	24 +10
+	24 +8
 d.	Alteration (+8)
-	25 +10
+	25 +8
 e.	Thaumaturgy (+8)
-	26 +10
+	26 +8
 f.	Mysticism (+8)
-	27 +10
+	27 +8
 
 2.	Due to frequent bad experiences with them,
 	you are noticeably short-tempered with...
@@ -29,17 +29,17 @@ e.	Criminals (-10 rep with Underworld)
 3.	You were accidentally enrolled in, but still benefited
 	from, two classes of ____ in the same year.
 a.	Destruction (+8)
-	22 +10
+	22 +8
 b.	Restoration (+8)
-	23 +10
+	23 +8
 c.	Illusion (+8)
-	24 +10
+	24 +8
 d.	Alteration (+8)
-	25 +10
+	25 +8
 e.	Thaumaturgy (+8)
-	26 +10
+	26 +8
 f.	Mysticism (+8)
-	27 +10
+	27 +8
 
 4.	While visiting a friend, a debt collector knocked at the door
 	and demanded payment. You kept yourself free from danger using...
@@ -158,16 +158,16 @@ h.	Stendarr (+10)
 	rf106 +10
 i.	Kynareth (+10)
 	rf36 +10
-j.  Mephala (+10)
+j.	Mephala (+10)
     rf108 +10
 
 12.	Poor genetics have cursed you with...
-a.	weak kidneys (-15 poison resistance)
-	RP -15
+a.	weak kidneys (-10 poison resistance)
+	RP -10
 b.	a short temper (-10 to conversation rolls)
 	RR -10
 c.	weak antibodies (-10 disease resistance)
-	RD -5
+	RD -10
 d.	poor reflexes (-10 to-hit odds)
 	TH -10
 

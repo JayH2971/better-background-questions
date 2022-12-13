@@ -1,0 +1,185 @@
+1.	To compensate your prowess with Destruction magic,
+    you have reduced ability with:
+a.	Long Blades and Axes (-6 each)
+	22 +12
+	29 -8
+    31 -8
+b.	Restoration and Long Blades (-8 each)
+	22 +12
+	29 -8
+    23 -8
+c.	Alteration and Thaumaturgy (-8 each)
+	22 +12
+	25 -8
+    26 -8
+d.	All other schools of magic (-4 each)
+	22 +12
+	23 -4
+    24 -4
+    25 -4
+    26 -4
+    27 -4
+e.  conversation (-15 to reaction rolls)
+    RR -15
+
+2.	A risky experiment in your mentor's laboratory
+    permanently increased your ability to:
+a.	run (Running +10)
+	21 +10
+b.	barter (Mercantile +10)
+	14 +10
+c.	understand all monster languages (+8 to each)
+	4 +8
+    5 +8
+    6 +8
+    7 +8
+    8 +8
+    9 +8
+    10 +8
+    11 +8
+    12 +8
+d.	dodge (Dodging +10)
+	1 +3
+	2 +3
+e.	naturally heal (Medical +20)
+	0 +20
+
+3.	Whenever you have free time, you try to spend it with...
+a.	nobility (Etiquette +10)
+	1 +10
+b.	sweet-talkers (Streetwise +10)
+	2 +10
+c.	merchants (Mercantile +6)
+	14 +6
+d.	fighters (to-hit odds +10)
+	TH +10
+
+4.	Prior to your departure, a friend gave you 1000 gold.
+    After some deliberation, you...
+a.	saved it.
+	GP +1000
+b.	bought an Elven saber.
+	IT 3 6 3
+c.	bought a Dwarven hand axe.
+	IT 3 14 4
+d.	bought several dungeon maps.
+    IT 27 8 0
+    IT 27 8 0
+    IT 27 8 0
+    IT 27 8 0
+
+5.	Given a chance to study exotic languages, you took a chance on...
+a.  Nymph (+10)
+    8 +10
+b.  Daedric (+10)
+    9 +10
+c.  Impish (+10)
+    12 +10
+d.  Dragonish (+10)
+    7 +10
+
+6.	At the insistence of your caretakers, you took additional courses in...
+a.	The School of Illusion (+8)
+	24 +8
+b.	The School of Alteration (+8)
+	25 +8
+c.	The School of Thaumaturgy (+8)
+	26 +8
+d.	The School of Mysticism (+8)
+	27 +8
+
+7.	As a child, your nickname was ___.
+a.	Priest (Restoration +6)
+	23 +6
+b.	Shadow (Stealth +10)
+	16 +10
+c.	Doctor (Medical +10)
+	0 +10
+d.	Slugger (Hand-to-Hand +10)
+	30 +10
+e.	Crook (Pickpocket +10)
+	15 +10
+
+8.	Leaving a friend's house at night, you are confronted by
+    an armed thief. You manage to scare her off using your ______.
+a.	blackjack (Blunt Weaponry +8)
+	32 +8
+b.	woodworking knife (Short Blades +8)
+	28 +8
+c.	conjured illusion (Illusion +6)
+	24 +6
+d.	refined combat stance (to-hit odds +5)
+	TH +5
+e.	Daedric impression (Daedric +10)
+    9 +10
+
+9.	To your surprise, you recently received the following as a gift:
+a.  a soul trap
+    IT 27 1 0
+b.  a holy tome
+    IT 10 12 0
+c.  a pack of narcotics
+    IT 0 0 0
+    IT 0 1 0
+    IT 0 2 0
+    IT 0 3 0
+d.  a diamond
+    IT 14 3 0
+e.  an Adamantium wakazashi
+    IT 3 4 6
+f.  a Dwarven staff
+    IT 3 2 4
+
+10.	Your personal preference, where possible,
+	is to do work for...
+a.	aristocrats (+1500 gold, +5 rep)
+	r3 +5
+	GP +1500
+b.	commoners (+300 gold, +5 rep)
+	r0 +5
+    GP +300
+c.	merchants (+500 gold, +5 rep)
+	r1 +5
+	GP +500
+d.	criminals (+1000 gold, +5 rep)
+	r4 +5
+	GP +1000
+e.	scholars (+500 gold, +5 rep)
+	r2 +5
+	GP +500
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.  Mephala (+10 reputation)
+	rf108 +10
+
+12.	You have an irrational disgust for ______.
+a.	criminals (-10 reputation)
+	r4 -10
+b.	nobles (-10 reputation)
+	r3 -10
+c.	intellectuals (-10 reputation)
+	r2 -10
+d.	merchants (-10 reputation)
+	r1 -10
+e.	common folk (-10 reputation)
+	r0 -10
+f.	everyone equally (-5 conversation odds)
+    RR -5

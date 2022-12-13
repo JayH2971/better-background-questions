@@ -13,14 +13,16 @@ e.  dai-katana
 f.	long sword
 	IT 3 7 1
 
-2.	A run-in with a werewolf several years ago taught you to
-	always keep a silver _____ on hand.
-a.	one-handed axe
-	IT 3 15 2
-b.	broad sword
+2.	You received a bite from an unusual-looking wolf during
+	a hunt several years ago. You afterward found yourself suffering from:
+a.	a weak immune system (-20 disease resistance)
+	RD -20
+b.	sluggish movement (-10 Running and Swimming)
 	IT 3 14 2
-d.	quarterstaff
-	IT 3 11	2
+c.	poor combat reflexes (-10 to-hit odds)
+	TH -10
+d.  a short temper (-15 conversation odds)
+    RR -15
 	
 3.	Your battlemaster incessantly taught you the importance
 	of learning _____ in order to survive.
@@ -74,7 +76,9 @@ d.	an Elven flail
 	IT 3 12 3
 e.  a Mithril wakazashi
 	IT 3 4 5
-f.  1500 gold pieces
+f.  a Dwarven hand axe
+    3 14 4
+g.  1500 gold pieces
 	GP 1500
 
 7.	One of your hated rivals belongs to the ______
@@ -143,7 +147,7 @@ h.	Stendarr (+10 reputation)
 	rf106 +10
 i.	Kynareth (+10 reputation)
 	rf36 +10
-j.  Mephala (+10 reputation)
+j.	Mephala (+10 reputation)
 	rf108 +10
 
 12.	Multiple blunt trauma injuries to your hands during combat
