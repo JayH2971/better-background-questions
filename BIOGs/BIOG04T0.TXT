@@ -39,23 +39,23 @@ d.	mages (Alteration, Thaumaturgy +6)
     25 +6
 
 4.	Your personal memento as a healer is a...
-    a. rare religious symbol
+a.  rare religious symbol
     IT 10 1 0
-    b. vial of troll's blood
+b.  vial of troll's blood
     IT 17 6 0
-    c. few drops of aloe
+c.  few drops of aloe
     IT 16 16 0
-    d. holy candle
+d.  holy candle
     IT 10 10 0
-    e. set of prayer beads
+e.  set of prayer beads
     IT 10 0 0
-    f. chalice of holy water
+f.  chalice of holy water
     IT 10 4 0
-    g. small icon
+g.  small icon
     IT 10 8 0
-    h. talisman
+h.  talisman
     IT 10 5 0
-    i. small jar of oil
+i.  small jar of oil
     IT 9 3 0
 
 5.	In your service as a healer, you saved a life
@@ -106,13 +106,13 @@ e.	manually tend wounds (Medical -10)
 	0 -10
 
 9.	Though you excel in Restoration, you fare poorly in...
-a.	Alteration (-10)
+a.	Alteration (-10 skill)
 	25 -10
-b.	Illusion (-10)
+b.	Illusion (-10 skill)
 	24 -10
-c.	Mysticism (-10)
+c.	Mysticism (-10 skill)
 	27 -10
-d.	Thaumaturgy (-10)
+d.	Thaumaturgy (-10 skill)
 	26 -10
 
 10.	What motivates you to work the healing art for others?
