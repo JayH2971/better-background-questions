@@ -110,7 +110,7 @@ a.	a Daedric tanto
 b.	an Ebony staff
 	IT 3 2 7
     MR -75
-c.	power over minds (+25 Etq, Stretw, Mrcntl)
+c.	a silver tongue (+25 Etq, Stretw, Mrcntl)
     1 +25
     2 +25
     14 +25
