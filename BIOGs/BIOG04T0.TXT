@@ -1,0 +1,168 @@
+1.	In need of a back-up plan for life, you were pressured
+	into taking courses in the school of...
+a.	Illusion (+8)
+	23 +12
+	24 +8
+b.	Alteration (+6)
+	23 +12
+	25 +6
+c.	Thaumaturgy (+6)
+	23 +12
+	26 +6
+d.	Mysticism (+6)
+	23 +12
+	27 +6
+
+2.	From your earliest years, you were taught to carry with you
+    a ______ for your own defense.
+a.	Steel staff (Blunt +6)
+	32 +6
+    IT 3 2 1
+b.	Steel mace (Blunt +6)
+    32 +6
+	IT 3 11 1
+c.	Dwarven short sword (Short Blade +6)
+	38 +6
+	IT 7 0 0
+d.	ready fist (Hand-to-Hand +10)
+	30 +10
+
+3.	You feel unusual ease speaking with _____.
+a.	merchants (Mercantile +8)
+	14 +8
+b.	low-lifes (Streetwise +8)
+	2 +8
+c.	the higher classes (Etiquette +8)
+	1 +8
+d.	mages (Alteration, Thaumaturgy +6)
+	26 +6
+    25 +6
+
+4.	Your personal memento as a healer is a...
+    a. rare religious symbol
+    IT 10 1 0
+    b. vial of troll's blood
+    IT 17 6 0
+    c. few drops of aloe
+    IT 16 16 0
+    d. holy candle
+    IT 10 10 0
+    e. set of prayer beads
+    IT 10 0 0
+    f. chalice of holy water
+    IT 10 4 0
+    g. small icon
+    IT 10 8 0
+    h. talisman
+    IT 10 5 0
+    i. small jar of oil
+    IT 9 3 0
+
+5.	In your service as a healer, you saved a life
+    that was supposed to die, incurring the wrath of...
+a.	The Dark Brotherhood (-10 reputation)
+	rf108 -10
+b.	The Mages Guild (-10 reputation)
+	rf40 -10
+c.	The Fighters Guild (-10 reputation)
+	rf41 -10
+d.	unnamed criminals (-10 rep to Underworld)
+	r4 -10
+
+6.	Pressed to learn some sort of profitable craft, you took to...
+a.	locksmithing (Lockpick +10)
+	13 +10
+b.	fishmongering (Swimming +10) 
+	17 +10
+c.	skinning and tanning (Short Blade +8)
+	28 +8
+d.	competitive boxing (Hand-to-Hand +8)
+	30 +8
+e.	track and field (Jumping +12)
+    3 +12
+
+7.	You chance upon, and heal, a wounded Orcish warlord in the wild.
+    He promises to reward you with...
+a.	a book of his language (Orcish +10)
+	4 +10
+b.	the dowry of his deceased mate (1000 gold)
+	GP +1000
+c.	a local peace treaty (Noble rep +10)
+	r3 +10
+d.	his personal Adamantium dagger
+	IT 3 0 6
+
+8.	A major injury suffered in your childhood
+    reduces your ability to...
+a.	climb (Climbing -10)
+	18 -10
+b.	dodge (Dodging -10)
+	20 -10
+c.	move quietly (Stealth -10)
+	16 -10
+d.	swim (Swimming -10)
+	17 -10
+e.	manually tend wounds (Medical -10)
+	0 -10
+
+9.	Though you excel in Restoration, you fare poorly in...
+a.	Alteration (-10)
+	25 -10
+b.	Illusion (-10)
+	24 -10
+c.	Mysticism (-10)
+	27 -10
+d.	Thaumaturgy (-10)
+	26 -10
+
+10.	What motivates you to work the healing art for others?
+a.	Lucre (+2500 gold)
+	GP +2500
+b.	Fame (+10 rep to all social groups)
+	r0 +10
+    r1 +10
+    r2 +10
+    r3 +10
+    r4 +10
+c.	Peace of mind (+15 conversation odds)
+	RR +15
+d.	Divine favor (-20 odds to be hit)
+	TH -20
+e.	Mastery (+15 Restoration)
+	23 +15
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.	Mephala (+10 reputation)
+	rf108 +10
+
+12.	In your adolescence, you became aware that
+    you were susceptible to...
+a.	poison (-15 poison resist)
+	RP -15
+b.	disease (-15 disease resist)
+	RD -15
+c.	the idiocy in others (-15 conversation odds)
+	RR -15
+d.	arcane magicks (-20 magic resist)
+	MR -20
+e.	physical combat (+15 chance to be hit)
+	TH +15
+
