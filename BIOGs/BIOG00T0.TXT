@@ -1,16 +1,16 @@
 1.	You felt great affinity with the magical
 	school of _____ from your earliest years.
-a.	Destruction (+8)
+a.	Destruction (+8 skill)
 	22 +8
-b.	Restoration (+8)
+b.	Restoration (+8 skill)
 	23 +8
-c.	Illusion (+8)
+c.	Illusion (+8 skill)
 	24 +8
-d.	Alteration (+8)
+d.	Alteration (+8 skill)
 	25 +8
-e.	Thaumaturgy (+8)
+e.	Thaumaturgy (+8 skill)
 	26 +8
-f.	Mysticism (+8)
+f.	Mysticism (+8 skill)
 	27 +8
 
 2.	Due to frequent bad experiences with them,
@@ -169,5 +169,5 @@ b.	a short temper (-10 to conversation rolls)
 c.	weak antibodies (-10 disease resistance)
 	RD -10
 d.	slow reflexes (+10 odds to be hit)
-	TH +10
+	TH -10
 

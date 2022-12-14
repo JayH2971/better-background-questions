@@ -127,7 +127,7 @@ b.	Fame (+10 rep to all social groups)
 c.	Peace of mind (+15 conversation odds)
 	RR +15
 d.	Divine favor (-20 odds to be hit)
-	TH -20
+	TH +20
 e.	Mastery (+15 Restoration)
 	23 +15
 

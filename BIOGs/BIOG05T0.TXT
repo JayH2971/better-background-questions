@@ -1,0 +1,165 @@
+1.	Someone looking out for your interests sent a very
+    official-looking letter of recommendation to...
+a.	The Mages Guild (reputation +10)
+	#4400
+	20 +6
+b.	The Thieves Guild (reputation +10)
+	#4401
+	16 +6
+c.	The Fighters Guild (reputation +10)
+	#4402
+	19 +6
+d.	The Dark Brotherhood (reputation +10)
+	#4404
+	13 +6
+
+2.	Your favorite non-violent lucrative activity is...
+a.	ripping people off (Mercantile +10)
+    14 +10
+b.	breaking and entering (Lockpicking +10)
+    13 +10
+c.	pilfering (Pickpocket +15)
+	15 +15
+d.	surveillance (Stealth +10)
+	16 +10
+e.	performing street magic (Illusion +5)
+	24 +5
+
+3.	Much of your expertise with Illusion magic came from an
+    expert-level text you stole from... 
+a.	a noble's library (Nobility rep -10)
+	24 +6
+	r3 -10
+b.	a scholar's collection (Scholar rep -10)
+	24 +6
+	r2 -10
+c.	a bookstore (Merchant rep -10)
+	24 +6
+	r1 -10
+d.	a peasant's home (Commoners rep -10)
+	24 +6
+    r0 -10
+
+4.	Your spellcasting ability comes up short when dealing
+    with the school of...
+a.	Destruction (-8 skill)
+	22 -8
+b.	Restoration (-8 skill)
+	23 -8
+c.	Alteration (-8 skill)
+	25 -8
+d.	Thaumaturgy (-8 skill)
+	26 -8
+e.	Mysticism (-8 skill)
+	27 -8
+
+5.	You practiced your sneaking skill on a camp of ________
+    in your youth, and overheard much of their language.
+a.	Harpies (Harpy +10)
+	5 +10
+b.	Giants (Giantish +10)
+	6 +10
+c.	Dragonlings (Dragonish +10)
+	7 +10
+d.	Nymphs (Nymph +10)
+	8 +10
+e.	Spriggan (Spriggan +10)
+	10 +10
+f.	Centaur (Centaur +10)
+	11 +10
+
+6.	As a birthday gift, you received a specialized
+    training course in...
+a.	Stealth (+10 skill)
+	16 +10
+b.	Short Blades (+10 skill)
+	28 +10
+c.	Illusion magic (+10 skill)
+	24 +10
+d.	Dodging (+12 skill)
+	20 +12
+e.	Lockpicking (+10 skill)
+	13 +10
+
+7.	You entrust your life to your _________.
+a.	Mithril dagger
+	IT 3 0 5
+b.	Dwarven tanto
+	IT 3 1 4
+c.	Elven short sword
+	IT 3 3 3
+d.	Silver wakazashi
+    IT 3 4 2
+
+8.	Good as you are at sneaking, you never seemed to properly learn ______.
+a.	running (-8 skill)
+	21 -8
+b.	climbing (-8 skill)
+	18 -8
+c.	sweet-talking (-8 Etiquette)
+	1 -8
+d.	bartering (-12 Mercantile)
+    14 -12
+
+9.	Genetics have cursed you with a lower ability to...
+a.	tolerate poisons (-15 poison resistance)
+    RP -15
+b.  withstand diseases (-20 disease resistance)
+    RD -20
+c.  dodge (+10 chance to be hit)
+    TH -10
+d.  suffer magic attacks (-20 arcane resistance)
+    MR -20
+
+10.	Your personal preference, where possible,
+	is to do work for...
+a.	aristocrats (+1500 gold, +5 rep)
+	r3 +5
+	GP +1500
+b.	commoners (+300 gold, +5 rep)
+	r0 +5
+	GP +300
+c.	merchants (+500 gold, +5 rep)
+	r1 +5
+	GP +500
+d.	criminals (+1000 gold, +5 rep)
+	r4 +5
+	GP +1000
+e.	scholars (+750 gold, +5 rep)
+	r2 +5
+	GP +750
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.	Mephala (+10 reputation)
+	rf108 +10
+
+12.	You seem to have a natural charm among the _______.
+a.	royal (+5 Nobility rep)
+	r3 +5
+b.	ordinary (+5 Commoner rep)
+	r0 +5
+c.	money-makers (+5 Merchant rep)
+	r1 +5
+d.	lawless (+5 Underworld rep)
+	r4 +5
+e.	intellectuals (+5 Scholar rep)
+	r2 +5
+

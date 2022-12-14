@@ -107,7 +107,7 @@ b.	woodworking knife (Short Blades +10)
 	28 +10
 c.	conjured illusion (Illusion +6)
 	24 +6
-d.	refined combat stance (to-hit odds +5)
+d.	refined combat stance (-5 odds to be hit)
 	TH +5
 e.	Daedric impression (Daedric +10)
     9 +10
