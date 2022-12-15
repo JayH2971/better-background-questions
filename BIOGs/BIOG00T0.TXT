@@ -14,16 +14,16 @@ f.	Mysticism (+8 skill)
 	27 +8
 
 2.	Due to frequent bad experiences with them,
-	you are noticeably short-tempered with...
-a.	Intellectuals (-10 rep with Scholars)
+	you are noticeably short-tempered with ______.
+a.	intellectuals (-10 rep with Scholars)
 	r2 -10
-b.	The ruling class (-10 rep with Nobility)
+b.	the ruling class (-10 rep with Nobility)
 	r3 -10
-c.	Common folk (-10 rep with Commoner)
+c.	common folk (-10 rep with Commoner)
 	r0 -10
-d.	Merchants (-10 rep with Merchants)
+d.	merchants (-10 rep with Merchants)
 	r1 -10
-e.	Criminals (-10 rep with Underworld)
+e.	criminals (-10 rep with Underworld)
 	r4 -10
 
 3.	You were accidentally enrolled in, but still benefited

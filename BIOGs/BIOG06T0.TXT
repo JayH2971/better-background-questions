@@ -1,0 +1,166 @@
+1.	One night while playing in a tavern, you hear shouts
+    from hecklers in the crowd. You run them out using:
+a.	your sword (Long Blade +6)
+    29 +6
+b.	the other patrons (Etiquette +6) 
+	1 +6
+c.	cruel insults (Streetwise +6)
+	2 +6
+d.	a calming spell (Thaumaturgy +10)
+	26 +6
+e.  your pocket knife (Short Blade +8)
+    28 +8
+f.  your bare fists (Hand-to-Hand +8)
+    30 +8
+
+2.	When your act is over, the tavern owner informs you
+    they're below profit for the night. You help by:
+a.	loaning him money, with interest (+500 gold)
+	GP +500
+b.	stealing from a drunk patron (Pickpocket +8) 
+	15 +8
+c.	robbing a nearby house (Lockpicking +8)
+	13 +8
+d.  giving him all you have (Commoners rep +10)
+    r0 +10
+
+3.	After you hand over the money, the innkeeper is accosted by
+    an armed thief. You rely on your ______ skill as you intervene.
+a.	backstabbing (+12 skill)
+	19 +12
+b.	archery (+10 skill)
+	33 +10
+c.	running (+10 skill)
+	21 +10
+d.	dodging (+10 skill)
+	20 +10
+e.	Destruction magic (+10 skill)
+	22 +10
+
+4.	Defending the innkeeper, you suffer a serious injury.
+    You ensure its healing by...
+a.	stitching it up (Medical +10)
+	0 +10
+b.	using magic (Restoration +8)
+	23 +8
+c.	paying for treatment (Mercantile +10)
+	14 +10
+
+5.	As a result of said injury, you find your ability
+    to _____ has been reduced.
+a.	avoid hits (-10 evade penalty)
+	TH -10
+b.	resist magical spells (-15 arcane resist)
+	MR -15
+c.	sprint (Running -15)
+    21 -15	
+d.	wield (all weapon skills -6)
+    28 -6
+    29 -6
+    31 -6
+    32 -6
+    33 -6
+
+6.	Outside at midnight, a powerful mage identifies as
+    the brother of the hecklers you threw out. You:
+a.	mount a horse to flee (Jumping +10)
+	3 +10
+b.	hide in the darkness (Stealth +8)
+	16 +8
+c.	scramble onto a rooftop (Climbing +10)
+	18 +10
+d.	dive into the nearby river (Swimming +10)
+	17 +10
+
+7.	The following morning, you pledge to study ______
+    magicks to defend yourself from cursed wizards.
+a.	Illusion (+8 skill)
+	24 +8
+b.	Alteration (+8 skill)
+	25 +8
+c.	Thaumaturgy (+8 skill)
+	26 +8
+d.	Mysticism (+8 skill)
+	27 +8
+
+8.	You display practically no talent for...
+a.	lockpicking (-15 skill)
+    13 -15
+b.	Mysticism magic (-15 skill)
+    27 -15
+c.	pickpocketing (-15 skill)
+	15 -15
+d.	small talk (-15 Streetwise)
+	2 -15
+
+9.	Due to frequent bad experiences with them,
+	you are noticeably short-tempered with ______.
+a.	intellectuals (-10 rep with Scholars)
+	r2 -10
+b.	the ruling class (-10 rep with Nobility)
+	r3 -10
+c.	common folk (-10 rep with Commoner)
+	r0 -10
+d.	merchants (-10 rep with Merchants)
+	r1 -10
+e.	criminals (-10 rep with Underworld)
+	r4 -10
+
+10.	Your personal preference, where possible,
+	is to entertain...
+a.	aristocrats (+1500 gold, +5 rep)
+	r3 +5
+	GP +1500
+b.	commoners (+300 gold, +5 rep)
+	r0 +5
+    GP +300
+c.	merchants (+500 gold, +5 rep)
+	r1 +5
+	GP +500
+d.	criminals (+1000 gold, +5 rep)
+	r4 +5
+	GP +1000
+e.	scholars (+750 gold, +5 rep)
+	r2 +5
+	GP +750
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.	Mephala (+10 reputation)
+	rf108 +10
+
+12.	You always carry with you an Elven...
+a.	wakazashi
+	IT 3 4 3
+b.	short bow, with arrows
+	IT 3 16 3
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+c.	broadsword
+	IT 3 5 3
+
