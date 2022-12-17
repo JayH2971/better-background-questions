@@ -15,16 +15,16 @@ f.	Mysticism (+8 skill)
 
 2.	Due to frequent bad experiences with them,
 	you are noticeably short-tempered with ______.
-a.	intellectuals (-10 rep with Scholars)
-	r2 -10
-b.	the ruling class (-10 rep with Nobility)
-	r3 -10
-c.	common folk (-10 rep with Commoner)
-	r0 -10
-d.	merchants (-10 rep with Merchants)
-	r1 -10
-e.	criminals (-10 rep with Underworld)
-	r4 -10
+a.	intellectuals (bad reaction to Scholars)
+	r2 -5
+b.	the ruling class (bad reaction to Nobility)
+	r3 -5
+c.	common folk (bad reaction to Commoners)
+	r0 -5
+d.	merchants (bad reaction to Merchants)
+	r1 -5
+e.	criminals (bad reaction to Underworld)
+	r4 -5
 
 3.	You were accidentally enrolled in, but still benefited
 	from, two classes of ____ in the same year.

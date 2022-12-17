@@ -66,8 +66,8 @@ b.	The Mages Guild (-10 reputation)
 	rf40 -10
 c.	The Fighters Guild (-10 reputation)
 	rf41 -10
-d.	unnamed criminals (-10 rep to Underworld)
-	r4 -10
+d.	unnamed criminals (bad Underworld reaction)
+	r4 -5
 
 6.	Pressed to learn some sort of profitable craft, you took to...
 a.	locksmithing (Lockpick +10)
@@ -87,8 +87,8 @@ a.	a book of his language (Orcish +10)
 	4 +10
 b.	the dowry of his deceased mate (1000 gold)
 	GP +1000
-c.	a local peace treaty (Noble rep +10)
-	r3 +10
+c.	a local peace treaty (Good Nobility reaction)
+	r3 +5
 d.	his personal Adamantium dagger
 	IT 3 0 6
 
@@ -118,12 +118,9 @@ d.	Thaumaturgy (-10 skill)
 10.	What motivates you to work the healing art for others?
 a.	Lucre (+2500 gold)
 	GP +2500
-b.	Fame (+10 rep to all social groups)
-	r0 +10
-    r1 +10
-    r2 +10
-    r3 +10
-    r4 +10
+b.	Fame (good rep w/ Royalty, Merchant)
+    r1 +5
+    r3 +5
 c.	Peace of mind (+15 conversation odds)
 	RR +15
 d.	Divine favor (-20 odds to be hit)

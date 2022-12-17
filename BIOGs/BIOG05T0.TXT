@@ -27,18 +27,18 @@ e.	performing street magic (Illusion +5)
 
 3.	Much of your expertise with Illusion magic came from an
     expert-level text you stole from... 
-a.	a noble's library (Nobility rep -10)
+a.	a noble's library (Bad Nobility reaction)
 	24 +6
-	r3 -10
-b.	a scholar's collection (Scholar rep -10)
+	r3 -5
+b.	a scholar's collection (Bad Scholar reaction)
 	24 +6
-	r2 -10
-c.	a bookstore (Merchant rep -10)
+	r2 -5
+c.	a bookstore (Bad Merchant reaction)
 	24 +6
-	r1 -10
-d.	a peasant's home (Commoners rep -10)
+	r1 -5
+d.	a peasant's home (Bad Commoner reaction)
 	24 +6
-    r0 -10
+    r0 -5
 
 4.	Your spellcasting ability comes up short when dealing
     with the school of...

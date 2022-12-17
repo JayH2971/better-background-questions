@@ -1,0 +1,164 @@
+1.	Your preferred method of infiltration is _______.
+a.	sweet-talking (Etiquette +8)
+	1 +8
+b.	invisibility (Illusion +6)
+	24 +6
+c.	picking locks (Lockpicking +8)
+	13 +8
+d.	conspiracy (Streetwise +8)
+	2 +8
+
+2.	On your last botched job, you had to resort
+    to _____ to save your life.
+a.	running (skill +6)
+	21 +6
+b.	hiding (Stealth +6)
+	16 +6
+c.	climbing out a window (Climbing +10)
+	18 +10
+d.	sniping (Archery +6)
+	33 +6
+
+3.	Due to a lack of training, you find yourself
+    distinctively disadvantaged with...
+a.	Etiquette (-12 skill)
+	1 -12
+b.	Streetwise (-12 skill)
+	2 -12
+c.	re-selling (-12 Mercantile)
+    14 -12
+
+4.	You were tasked to steal a potion, but your ringleader
+    refuses to pay you for it. You drink it instead, and become...
+a.	magic-resistant (+15 resistance to magic)
+	MR +15
+b.	a swift swimmer (+20 Swimming)
+	17 +20
+c.	magically adept (+10 to Mysticism)
+	27 +10
+d.	perceptive (+8 to all monster languages)
+	4 +8
+    5 +8
+    6 +8
+    7 +8
+    8 +8
+    9 +8
+    10 +8
+    11 +8
+    12 +8
+
+5.	Your dying mentor bequeathed to you a Mithril...
+a.	short bow with arrows
+    IT 3 16 5
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+    IT 3 18 0
+b.	short sword
+	IT 3 3 5
+c.  mace
+    IT 3 11 0
+
+6.	In combat drills, you were obliged to endlessly
+    improve...
+a.	your reflexes (-15 chance to be hit)
+	TH -15
+b.	backstabbing (+10 skill)
+	19 +10
+c.	keeping your distance (+8 Running)
+	21 +8
+d.	hand-to-hand combat (+15 skill)
+	30 +15
+
+7.	On your latest haul, you got away with a...
+a.	Dwarven breastplate
+	IT 2 0 4
+b.	holy tome
+	IT 10 12 0
+c.	horse
+	IT 23 1 0
+d.	bag of 2000 gold coins
+	GP +2000
+e.	manual of Short Blades (+8 skill)
+    28 +8
+
+8.	Among your kind, you are distinguished by the unique _____ you possess.
+a.	ring
+	IT 25 2 0
+b.	bracer
+	IT 25 1 0
+c.	amulet
+	IT 25 0 0
+d.	white rose
+	IT 16 10 0
+e.	sapphire
+	IT 14 2 0
+
+9.	A painful illness in your youth left you...
+a.	short-tempered (-10 conversation odds)
+	RR -10
+b.	vulnerable to disease (-10 disease resist)
+    RD -10
+d.	vulnerable to poison (-10 poison resist)
+	RP -10
+e.	weak (-6 to all weapon skills)
+    28 -6
+    29 -6
+    31 -6
+    32 -6
+    33 -6
+
+10.	Your personal preference, where possible,
+	is to do work for...
+a.	aristocrats (+1500 gold, +5 rep)
+	r3 +5
+	GP +1500
+b.	commoners (+300 gold, +5 rep)
+	r0 +5
+    GP +300
+c.	merchants (+500 gold, +5 rep)
+	r1 +5
+	GP +500
+d.	criminals (+1000 gold, +5 rep)
+	r4 +5
+	GP +1000
+e.	scholars (+750 gold, +5 rep)
+	r2 +5
+	GP +750
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.	Mephala (+10 reputation)
+	rf108 +10
+
+12.	Though you survived, you were caught trying to steal from...
+a.	The Dark Brotherhood (-10 reputation)
+	rf108 -10
+b.	The Mages Guild (-10 reputation)
+	rf40 -10
+c.	The Thieves Guild (-10 reputation)
+	rf42 -10
+

@@ -63,8 +63,8 @@ b.	business investing (3200 gold, +8 Mercant)
 c.	a finishing course (+8 Etiq and Streetw)
 	1 +8
     2 +8
-d.	earning favor in the underworld (criminal rep +15) 
-	r4 +15
+d.	earning favor in the underworld (good Underworld reaction) 
+	r4 +5
 e.	a deposit for a shiny new Mithril mace
     IT 3 11 5
 

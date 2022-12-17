@@ -170,16 +170,16 @@ j.	Mephala (+10 reputation)
 	rf108 +10
 
 12.	You have an irrational disgust for ______.
-a.	criminals (-10 reputation)
-	r4 -10
-b.	nobles (-10 reputation)
-	r3 -10
-c.	intellectuals (-10 reputation)
-	r2 -10
-d.	merchants (-10 reputation)
-	r1 -10
-e.	common folk (-10 reputation)
-	r0 -10
+a.	criminals (bad reaction)
+	r4 -5
+b.	nobles (bad reaction)
+	r3 -5
+c.	intellectuals (bad reaction)
+	r2 -5
+d.	merchants (bad reaction)
+	r1 -5
+e.	common folk (bad reaction)
+	r0 -5
 f.	everyone equally (-5 conversation odds)
     RR -5
 
