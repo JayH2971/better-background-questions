@@ -1,0 +1,150 @@
+1.	Though you have no skill with it, one of
+	your relatives inexplicably gifted you a Mithril...
+a.	short bow with arrows
+	IT 3 16 5
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+b.	short sword
+	IT 3 3 5
+c.  hand axe
+	IT 3 11 5
+
+2.	From your youth, you showed a particular knack for...
+a.	fencing (Long Blade +6)
+	29 +6
+b.	subterfuge (Stealth +6)
+	16 +6
+c.	evasion (Dodging +10)
+	20 +10
+
+3.	Winning a large sum of money in a sports tournament, you decide to...
+a.	buy a horse
+	IT 23 1 0
+b.	invest in bartering lessons (+10 Mercantile)
+	14 +10
+c.	keep it (+2300 gold)
+    GP 2300
+
+4.	Your master-at-arms had an inconvenient living arrangement,
+    necessitating that you _____ to travel there.
+a.	swim (Swimming +10)
+	17 +10
+b.	use a code phrase (+6 Streetwise)
+	2 +6
+c.	climb (+10 Climbing)
+	18 +10
+d.	push through crowds (+10 Hand-to-Hand)
+	30 +10
+
+5.	You are the target of an unfair smearing campaign
+    that affects...
+a.	The Dark Brotherhood (-10 reputation)
+	rf108 -10
+b.	The Mages Guild (-10 reputation)
+	rf40 -10
+c.	The Fighters Guild (-10 reputation)
+	rf41 -10
+d.	The Thieves Guild (-10 reputation)
+    rf42 -10
+
+6.	Your experience in the outdoors has provided you with...
+a.	strong willpower (magical resist +20)
+	MR +20
+b.	resistance to disease (disease resist +15)
+	RD +15
+c.	resistance to poison (poison resist +15)
+    RP +15
+e.  strong lungs (Running +15)
+	21 +15
+
+7.	Your _____ has saved your life many a time.
+a.	Mithril broadsword
+	IT 3 5 5
+b.	Dwarven long sword
+	IT 3 7 4
+c.	Elven dai-katana
+	IT 3 10 3
+d.	silver tongue (+15 to Etiquette and Streetwise)
+    1 +15
+    2 +15
+
+8.	As the winner of a duel, in lieu of your opponent's life, you
+    instead claimed his...
+a.	manual on Archery (Missile skill +15)
+	33 +15
+b.	elven Saber
+	IT 3 6 3
+c.	diamond
+	IT 14 3 0
+d.	finest painting
+	IT 13 0 0
+
+9.	Taking a walk on the wild side, you enrolled in
+    a ______ course for fun.
+a.	Restoration (skill +15)
+	23 +15
+b.	Mysticism (skill +15)
+    27 +15
+d.	first aid (Medical +10)
+	0 +10
+e.	Daedric (skill +15)
+    9 +15
+
+10.	Your personal preference, where possible,
+	is to do work for...
+a.	aristocrats (+1500 gold, +5 rep)
+	r3 +5
+	GP +1500
+b.	commoners (+300 gold, +5 rep)
+	r0 +5
+    GP +300
+c.	merchants (+500 gold, +5 rep)
+	r1 +5
+	GP +500
+d.	criminals (+1000 gold, +5 rep)
+	r4 +5
+	GP +1000
+e.	scholars (+750 gold, +5 rep)
+	r2 +5
+	GP +750
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.	Mephala (+10 reputation)
+	rf108 +10
+
+12.	Your ability to _____ has always been rather stunted.
+a.	strike from behind (Backstabbing -10)
+	19 -10
+b.	pick locks (Lockpicking -8)
+	13 -8
+c.	deceive (Streetwise -12)
+	2 -12
+d.  fight (-8 to-hit odds)
+    TH -8
+

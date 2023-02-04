@@ -63,7 +63,7 @@ a.	short bow with arrows
 b.	short sword
 	IT 3 3 5
 c.  mace
-    IT 3 11 0
+    IT 3 11 5
 
 6.	In combat drills, you were obliged to endlessly
     improve...
