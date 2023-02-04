@@ -1,0 +1,173 @@
+1.	You recently earned 200 gold pieces in a
+    _____ contest at a local carnival.
+a.	jumping (skill +6)
+    3 +6
+    GP +200
+b.	sprinting (Running +6)
+	21 +6
+    GP +200
+c.  lockpicking (skill +10)
+	13 +10
+    GP +200
+d.  fisticuffs (Hand-to-Hand +10)
+    30 +10
+    GP +200
+e.  fencing (Long Blade +4)
+    29 +4
+    GP +200
+f.  bartering (Mercantile +15)
+    14 +15
+    GP +200
+
+2.	You excelled in the _____ course you were
+    obliged to take in your youth.
+a.	Daedric (skill +10)
+	9 +10
+b.	Orcish (skill +10)
+	4 +10
+c.	Spriggan (skill +15)
+	10 +15
+d.  Nymph (skill +15)
+    8 +15
+e.  codebreaking (Streetwise +6)
+    2 +6
+f.  Illusion magic (skill +15)
+    24 +15
+
+3.	For some reason, you have no patience dealing with _____.
+a.	nobles and royalty (bad reaction)
+	r3 -5
+b.	peasants (bad reaction)
+	r0 -5
+c.	vendors (bad reaction)
+	r1 -5
+d.	the criminal underworld (bad reaction)
+	r4 -5
+e.	erudites (bad reaction)
+	r2 -5
+
+4.	In addition to your Elven katana, you entrust your life to...
+a.	an Ebony dagger
+    IT 3 8 3
+	IT 3 0 7
+b.	an Elven mace
+    IT 3 8 3
+    IT 3 11 3
+c. 	an Adamantium quarterstaff
+    IT 3 8 3
+    IT 3 2 6
+
+5.	You have never been able to compensate for your...
+a.  inability to converse (-20 conversation odds)
+    RR -20
+b.  bad reflexes (-15 to-hit odds)
+    TH -15
+c.  bad kidneys (-15 poison resistance)
+    RP -15
+d.  weak immune system (-20 disease resistance)
+    RD -20
+e.  magical frailty (-35 arcane resistance)
+    MR -35
+
+6.	You received brief instruction concerning _____ in your youth.
+a.	pickpocketing (skill +10)
+	15 +10
+b.	swimming (skill +10)
+	17 +10
+c.	courtiership (Etiquette +10)
+    1 +10
+
+7.	When obliged into combat, you tend to preserve your
+    life using your _____ skill.
+a.	archery (skill +15)
+	IT 3 16 1
+    IT 3 18 0
+    IT 3 18 0
+    33 +15
+b.	medical (skill +15)
+	0 +15
+c.	backstabbing (skill +10)
+	19 +10
+d.	Restoration magic (skill +15)
+    23 +15
+
+8.	Your many hours practicing ______ have borne no fruit.
+a.	climbing (skill -10)
+	18 -10
+b.	dodging (skill -10)
+	20 -10
+c.	stealth (skill -10)
+	16 -10	
+
+9.	You were given _____ as a momento from someone in your past.
+a.	a ring
+	IT 25 2 0
+b.	a painting
+    IT 13 0 0
+d.	a holy tome
+    IT 10 12 0
+e.  a red rose
+    IT 15 11 0
+f.  holy water
+    IT 10 4 0
+g.  a religious icon
+    IT 10 8 0
+
+10.	Your personal preference, where possible,
+	is to do work for...
+a.	aristocrats (+1500 gold, +5 rep)
+	r3 +5
+	GP +1500
+b.	commoners (+300 gold, +5 rep)
+	r0 +5
+    GP +300
+c.	merchants (+500 gold, +5 rep)
+	r1 +5
+	GP +500
+d.	criminals (+1000 gold, +5 rep)
+	r4 +5
+	GP +1000
+e.	scholars (+750 gold, +5 rep)
+	r2 +5
+	GP +750
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.	Mephala (+10 reputation)
+	rf108 +10
+
+12.	Your personal gemstone is...
+a.	a ruby
+    IT  14 0 0
+b.  an emerald
+    IT  14 1 0
+c.  a sapphire
+    IT  14 2 0
+d.  a diamond
+    IT  14 3 0
+e.  a jade
+    IT  14 4 0
+f.  a turquoise
+    IT  14 5 0
+g.  a malachite
+    IT  14 6 0
+h.  an amber
+    IT  14 7 0
+
