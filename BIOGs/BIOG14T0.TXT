@@ -1,0 +1,164 @@
+1.	Before leaving on your journey, you made
+    sure your Dwarven _____ was in peak condiiton.
+a.	claymore
+    IT 3 9 4
+b.	long bow
+    IT 3 17 4
+    IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+c.  two-handed axe
+    IT 3 15 4
+
+2.	You received _______ as a birthday gift
+    in your youth, which you have since maintained.
+a.	a pair of Adamantium boots
+	IT 2 6 6
+b.	an Orcish helm
+	IT 2 5 8
+c.	a pair of Dwarven gauntlets
+	IT 2 1 4
+d.  a Mithril cuirass
+    IT 2 0 5
+
+3.	Your affinity with nature gives you frequent chances
+    to communicate with _____.
+a.	dragonlings (Dragonish +8)
+    7 +8
+b.	spriggans (Spriggan +5)
+	10 +5
+c.	harpies (Harpy +5)
+	5 +5
+d.	centaurs (Centaur +8)
+	11 +8
+e.	hill giants (Giantish +8)
+	6 +8
+
+4.	Upon suffering an injury,
+    you are most likely to treat it by...
+a.	using magic (Restoration +15)
+    23 +15
+b.	mending it (Medical +10)
+    0 +10
+c. 	requesting help from a temple (Etiquette +10)
+    1 +10
+d.  seeking a back-alley clinic (Streetwise +10)
+    2 +10
+
+5.	Strenuous training in your adolescence paid off, making you...
+a.  athletic (Running +8)
+    21 +8
+b.  evasive (+5 to-hit odds)
+    TH +5
+c.  accurate (Critical Hit +15)
+    34 +15
+d.  healthier (+8 disease resistance)
+    RD +8
+
+6.	You recently picked up a steel _______ for your own use.
+a.	kite shield
+    IT 2 9 1
+b.  pair of pauldrons
+    IT 2 3 1
+    IT 2 4 1
+c.  set of greaves
+    IT 2 2 1
+d.  broadsword
+    IT 3 5 1
+e.  one-handed axe
+    IT 3 14 1
+f.  short bow
+    3 17 1
+    IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+
+7.	Your mentor paid over a thousand gold pieces for you
+    to get more training in _______.
+a.	dodging (skill +5)
+	20 +5
+b.	archery (skill +4)
+	33 +4
+c.	climbing (skill +5)
+	18 +5
+d.	swimming (skill +8)
+    17 +8
+
+8.	You seem to have no understanding of the ways of _______.
+a.	nobles and royalty (bad reaction)
+	r3 -5
+b.	peasants (bad reaction)
+	r0 -5
+c.	vendors (bad reaction)
+	r1 -5
+d.	the criminal underworld (bad reaction)
+	r4 -5
+e.	erudites (bad reaction)
+	r2 -5
+
+9.	You carry with you _______ in representation of your upbringing.
+a.	some aloe
+	IT 16 16 0
+b.	some bamboo sticks
+    IT 16 14 0
+d.	fig leaves
+    IT 16 17 0
+e.  yellow flowers
+    IT 16 3 0
+f.  a pine branch
+    IT 15 6 0
+g.  red berries
+    IT 15 8 0
+h.  a clover
+    IT 15 10 0
+i.  green leaves
+    IT 15 1 0
+j.  a black poppy
+    IT 16 11 0
+
+10.	Your personal preference, where possible,
+	is to associate with...
+a.	aristocrats (good reaction)
+	r3 +5
+b.	commoners (good reaction)
+	r0 +5
+c.	merchants (good reaction)
+	r1 +5
+d.	criminals (good reaction)
+	r4 +5
+e.	scholars (good reaction)
+	r2 +5
+
+11.	What god, if any, do you worship?
+a.	None
+	r2 +0
+b.	Arkay (+10 reputation)
+	rf82 +10
+c.	Zenithar (+10 reputation)
+	rf84 +10
+d.	Mara (+10 reputation)
+	rf88 +10
+e.	Dibella (+10 reputation)
+	rf98 +10
+f.	Julianos (+10 reputation)
+	rf94 +10
+g.	Akatosh (+10 reputation)
+	rf92 +10
+h.	Stendarr (+10 reputation)
+	rf106 +10
+i.	Kynareth (+10 reputation)
+	rf36 +10
+j.	Mephala (+10 reputation)
+	rf108 +10
+
+12.	A combination of genetics and bad experiences left you
+    with reduced ability to...
+a.	climb (skill -10)
+    18 -10
+b.  swim (skill -10)
+    17 -10
+c.  resist poison (poison resistance -10)
+    RP -10
+d.  dodge in combat (to-hit -8)
+    TH -8
+
